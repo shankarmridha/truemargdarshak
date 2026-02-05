@@ -191,7 +191,7 @@ const Contact = () => {
                 <h3 className="text-xl font-semibold">Contact Information</h3>
                 <div className="space-y-4">
                   <a
-                    href="mailto:contact@truemargdarshak.com"
+                    href="mailto:shankar@truemargdarshak.com"
                     className="flex items-center gap-4 text-primary-foreground/80 hover:text-gold transition-colors"
                   >
                     <div className="w-10 h-10 bg-primary-foreground/10 rounded-lg flex items-center justify-center">
@@ -199,11 +199,11 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="text-sm text-primary-foreground/60">Email</p>
-                      <p>contact@truemargdarshak.com</p>
+                      <p>shankar@truemargdarshak.com</p>
                     </div>
                   </a>
                   <a
-                    href="tel:+919876543210"
+                    href="tel:+919860606671"
                     className="flex items-center gap-4 text-primary-foreground/80 hover:text-gold transition-colors"
                   >
                     <div className="w-10 h-10 bg-primary-foreground/10 rounded-lg flex items-center justify-center">
@@ -211,7 +211,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="text-sm text-primary-foreground/60">Phone</p>
-                      <p>+91 98765 43210</p>
+                      <p>+91 9860606671</p>
                     </div>
                   </a>
                   <div className="flex items-center gap-4 text-primary-foreground/80">
@@ -220,7 +220,7 @@ const Contact = () => {
                     </div>
                     <div>
                       <p className="text-sm text-primary-foreground/60">Location</p>
-                      <p>Mumbai, India</p>
+                      <p>Pune, India (delivering across India and Internationally)</p>
                     </div>
                   </div>
                 </div>
