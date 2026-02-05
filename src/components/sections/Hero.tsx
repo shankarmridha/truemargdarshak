@@ -62,7 +62,7 @@ const Hero = () => {
             <Button
               size="lg"
               variant="outline"
-              className="border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10 px-8 py-6 text-lg transition-all duration-300"
+              className="border-gold text-gold hover:bg-gold hover:text-primary px-8 py-6 text-lg transition-all duration-300"
               onClick={() => document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" })}
             >
               Request a Consultation
